@@ -1,0 +1,11 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+*.tfstate
+.terraform.lock.hcl
+.terraformrc
+.terraform-version
+
+.idea/
+.vscode/
+.DS_Store
